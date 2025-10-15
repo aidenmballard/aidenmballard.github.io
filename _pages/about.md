@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Aiden
-Ballard
-608 Harvest Court
-Bel Air, MD 21014
+Aiden Ballard
+608 Harvest Court, Bel Air, MD 21014
 443-640-7883
 aidenballard@student.hcps.org
 aiden09mb@outlook.com
@@ -18,6 +16,7 @@ OBJECTIVE
 I am an honors student in the Information Technology Oracle Academy at Havre de Grace High School looking for
 an opportunity to learn new skills and knowledge so that I can build a career in the federal government as an
 adult. I am looking to work in the Computer Aid position.
+
 EXPERIENCE EDUCATION
 BUSBOY – SILVER SPRING MINING
 COMPANY
@@ -25,6 +24,7 @@ DECEMBER 2024 – PRESENT
 WORK IN AN HIGH PRESSURE
 ENVIORNMENT, SPECIALIZING IN
 TEAMWORK AND CUSTOMER SERVICE.
+
 HAVRE DE GRACE HIGH SCHOOL
 HARFORD COMMUNITY COLLEGE
 GRADUATION MAY 2027
@@ -34,6 +34,7 @@ Database Certification
 Envision Academy Machine Learning
 Course
 Honor Roll for multiple years
+
 Courses completed: AP Computer Science
 Principles, Java Foundations, Java
 Fundamentals, Database Fundamentals,
