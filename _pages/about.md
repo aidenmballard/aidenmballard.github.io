@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "fuck you code"
+title: "test"
 author_profile: true
 redirect_from: 
   - /about/
