@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Aiden Ballard
-
 **Address:** 608 Harvest Court, Bel Air, MD 21014  
 **Phone:** 443-640-7883  
 **Email:** aidenballard@student.hcps.org | aiden09mb@outlook.com  
