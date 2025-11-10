@@ -55,4 +55,5 @@ Graduation: May 2027
 - Developed numerous Java programming projects, including a comprehensive game and a quantum computing simulator.  
 - Designed a method for encrypting quantum information for communication through entanglement and bloch sphere transformation
 - https://github.com/aidenmballard/quantum_encryption/tree/main
+- 
 
