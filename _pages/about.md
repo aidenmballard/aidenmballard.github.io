@@ -14,13 +14,14 @@ redirect_from:
 ---
 
 ## Objective
-I am an honors student in the Information Technology Oracle Academy at Havre de Grace High School looking for an opportunity to learn new skills and knowledge so that I can build a career in the federal government as an adult. I am seeking to work in the Computer Aid position.
+I am an honor's student in the Information Technology Oracle Academy at Havre de Grace High School. I am looking for an opportunity to learn new skills and knowledge to help me build my experience before going to college.
 
 ---
 
 ## Experience
 
-**Busboy – Silver Spring Mining Company**  
+**Silver Spring Mining Company**  
+*Busboy - Salad - Expo
 *December 2024 – Present*  
 - Work in a high-pressure environment, specializing in teamwork and customer service.
 
@@ -28,16 +29,11 @@ I am an honors student in the Information Technology Oracle Academy at Havre de 
 
 ## Education
 
-**Havre de Grace High School**  
-Graduation: May 2027  
-- Information Technology Oracle Academy  
-- Oracle Certified Foundations Associate, Database Certification  
-- Envision Academy Machine Learning Course  
-- Honor Roll for multiple years  
-- Courses completed: AP Computer Science Principles, Java Foundations, Java Fundamentals, Database Fundamentals, Database Design  
-- Courses in progress: AP Computer Science A, Intro to Cybersecurity (fall), Intro to C/C++ (spring)
-
-**Harford Community College**
+Havre de Grace High School - Information Technology Oracle Academy - Specializing in computer
+science - Graduate May 2027 – 4.6 GPA
+Harford Community College – 4.0 GPA
+Oracle Certified Foundations Associate, Database Certification
+Envision Academy Machine Learning Course
 
 ---
 
@@ -52,7 +48,9 @@ Graduation: May 2027
 ---
 
 ## Projects
-- Developed numerous Java programming projects, including a comprehensive game and a quantum computing simulator.  
-- Designed a method for encrypting quantum information for communication through entanglement and bloch sphere transformation
-- [Repository Link](https://github.com/aidenmballard/quantum_encryption/tree/main)
 
+-Quantum Encryption System – Uses qubits to encrypt messages in a single qubit - [Repository Link](https://github.com/aidenmballard/quantum_encryption)
+-Python budget tracker – Tracks finances by getting payment data from a CSV and analyzing it - [Repository Link](https://github.com/aidenmballard/finance-tracker)
+-Java dinosaur game – Christmas themed dinosaur game for high school door competition - [Repository Link](https://github.com/aidenmballard/chrimmas-dinosaur)
+-Graphing Calculator – Graphs implicit derivatives slope fields - [Repository Link](https://github.com/aidenmballard/graphing-calculator)
+-Deployment website for Aberdeen Proving Ground – Start page for APG soldiers - [Reprository Link](https://github.com/Jbafs/JCRS-D-Start-Page)
