@@ -29,11 +29,11 @@ I am an honor's student in the Information Technology Oracle Academy at Havre de
 
 ## Education
 
-Havre de Grace High School - Information Technology Oracle Academy - Specializing in computer
+- Havre de Grace High School - Information Technology Oracle Academy - Specializing in computer
 science - Graduate May 2027 – 4.6 GPA
-Harford Community College – 4.0 GPA
-Oracle Certified Foundations Associate, Database Certification
-Envision Academy Machine Learning Course
+- Harford Community College – 4.0 GPA
+- Oracle Certified Foundations Associate, Database Certification
+- Envision Academy Machine Learning Course
 
 ---
 
@@ -49,8 +49,8 @@ Envision Academy Machine Learning Course
 
 ## Projects
 
--Quantum Encryption System – Uses qubits to encrypt messages in a single qubit - [Repository Link](https://github.com/aidenmballard/quantum_encryption)
--Python budget tracker – Tracks finances by getting payment data from a CSV and analyzing it - [Repository Link](https://github.com/aidenmballard/finance-tracker)
--Java dinosaur game – Christmas themed dinosaur game for high school door competition - [Repository Link](https://github.com/aidenmballard/chrimmas-dinosaur)
--Graphing Calculator – Graphs implicit derivatives slope fields - [Repository Link](https://github.com/aidenmballard/graphing-calculator)
--Deployment website for Aberdeen Proving Ground – Start page for APG soldiers - [Reprository Link](https://github.com/Jbafs/JCRS-D-Start-Page)
+- Quantum Encryption System – Uses qubits to encrypt messages in a single qubit - [Repository Link](https://github.com/aidenmballard/quantum_encryption)
+- Python budget tracker – Tracks finances by getting payment data from a CSV and analyzing it - [Repository Link](https://github.com/aidenmballard/finance-tracker)
+- Java dinosaur game – Christmas themed dinosaur game for high school door competition - [Repository Link](https://github.com/aidenmballard/chrimmas-dinosaur)
+- Graphing Calculator – Graphs implicit derivatives slope fields - [Repository Link](https://github.com/aidenmballard/graphing-calculator)
+- Deployment website for Aberdeen Proving Ground – Start page for APG soldiers - [Reprository Link](https://github.com/Jbafs/JCRS-D-Start-Page)
