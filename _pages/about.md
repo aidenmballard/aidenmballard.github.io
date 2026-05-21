@@ -21,7 +21,7 @@ I am an honor's student in the Information Technology Oracle Academy at Havre de
 ## Experience
 
 **Silver Spring Mining Company**  
-Busboy - Salad - Expo
+Busboy - Salad - Expo\
 *December 2024 – Present*
 - Work in a high-pressure environment, specializing in teamwork and customer service.
 
