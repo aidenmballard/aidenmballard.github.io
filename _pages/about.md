@@ -53,4 +53,5 @@ science - Graduate May 2027 – 4.6 GPA
 - Python budget tracker – Tracks finances by getting payment data from a CSV and analyzing it - [Repository Link](https://github.com/aidenmballard/finance-tracker)
 - Java dinosaur game – Christmas themed dinosaur game for high school door competition - [Repository Link](https://github.com/aidenmballard/chrimmas-dinosaur)
 - Graphing Calculator – Graphs implicit derivatives slope fields - [Repository Link](https://github.com/aidenmballard/graphing-calculator)
-- Deployment website for Aberdeen Proving Ground – Start page for APG soldiers - [Reprository Link](https://github.com/Jbafs/JCRS-D-Start-Page)
+- Deployment website for Aberdeen Proving Ground – Start page for APG soldiers - [Repository Link](https://github.com/Jbafs/JCRS-D-Start-Page)
+- Neutron Star Simulator - Python program to simulate the effects of Neutron stars - [Repository Link](https://github.com/aidenmballard/Neutron-Star-Simluator)
